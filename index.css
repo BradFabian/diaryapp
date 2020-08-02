@@ -47,3 +47,11 @@ input:focus {
   max-width: 20em;
   margin-top: 1em;
 }
+
+.display-entry-button {
+  border: unset;
+  border-radius: 10%;
+  padding: 0.5em 1em;
+  background-color: #ffa62b;
+  color: aliceblue;
+}
